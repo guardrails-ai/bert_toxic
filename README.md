@@ -1,6 +1,6 @@
 # Overview
 
-| Developed by | 1634550495@qq.com |
+| Developed by | Guardrails AI |
 | --- | --- |
 | Date of development | Feb 15, 2024 |
 | Validator type | Format |
