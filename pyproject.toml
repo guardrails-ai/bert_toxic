@@ -1,6 +1,6 @@
 [project]
 name = "validator-template"
-version = "0.0.0"
+version = "0.0.1"
 description = "Template repo for Guardrails Hub validators."
 authors = [
     {name = "Guardrails AI", email = "contact@guardrailsai.com"}
